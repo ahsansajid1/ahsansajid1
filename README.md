@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahsan Sajid
 
-🎓 Computer Science Student at Pak Austria University Haripur  
+🎓 Computer Science Student @ PAF-IAST Haripur.
 💡 Python Developer | 🚀 Aspiring Data Scientist | 💼 Tech Enthusiast  
 
 ---
@@ -24,7 +24,6 @@ Currently, I'm gaining hands-on experience through a remote internship and devel
 ## 📈 Currently Working On
 
 - 🧠 Python Internship Projects  
-- 🌐 My Shopify Store: Happy Heels (Ladies Shoes)  
 - 🧪 Beginner Python Projects: Snake Game, Jarvis AI, Auto Reply Bot  
 
 ---
@@ -33,5 +32,5 @@ Currently, I'm gaining hands-on experience through a remote internship and devel
 
 - 📧 Email:sardarahsanofficial302@gmail.com 
 - 🌐 LinkedIn:
-- 📍 Location: Pakistan
+
 

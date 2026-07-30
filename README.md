@@ -30,7 +30,7 @@ Currently, I'm gaining hands-on experience through a remote internship and devel
 
 ## 📫 Let's Connect
 
-- 📧 Email:sardarahsanofficial302@gmail.com 
-- 🌐 LinkedIn:
+- 📧 Email:ahsansajid.dev@gmail.com 
+- 🌐 LinkedIn: www.linkedin.com/in/ahsansajid1
 
 

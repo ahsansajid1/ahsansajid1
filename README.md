@@ -1,66 +1,44 @@
 # Hi, I'm Ahsan Sajid
 
-Computer Science student at PAF-IAST Haripur, building toward AI engineering and automation systems. I write Python, explore AI frameworks, and turn ideas into working projects.
+**BS Computer Science student at PAF-IAST Haripur | Building toward AI engineering**
 
-Currently focused on AI agents, workflow automation, and understanding how large language models work under the hood.
+I'm Ahsan, a Computer Science student based in Haripur, Pakistan. I'm learning AI engineering by building projects, connecting language models with tools, and exploring how agent workflows solve practical problems.
 
----
+My current focus is **LangChain, retrieval-augmented generation (RAG), and LangGraph**. My goal is to build reliable agentic applications for business workflows. I share my projects and learning here as I develop the skills to design, evaluate, and ship those systems.
+
+## Featured projects
+
+### [Multi-Agent AI Research System](https://github.com/ahsansajid1/Multi_Agent_System)
+
+A research application that combines web search, webpage reading, report writing, and AI-generated feedback. It includes a FastAPI backend and a web interface.
+
+**Built with:** Python · LangChain · Mistral · Tavily · BeautifulSoup · FastAPI
+
+### [Smart Hospital Patient Priority System](https://github.com/ahsansajid1/smart-hospital-patient-priority-system)
+
+A DSA course project that prioritizes patients by severity and arrival time. A C++ max-heap engine connects to a Flask backend, MySQL database, and web interface.
+
+**Built with:** C++ · Python · Flask · MySQL · HTML/CSS/JavaScript
 
 ## What I'm working with
 
-**AI & Automation**
-- LangChain · LangGraph · OpenAI API
-- n8n workflow automation
-- RAG pipelines · Vector databases
-- Prompt engineering
+- **Python and backend development:** Python, FastAPI, Flask, REST APIs, and MySQL.
+- **AI applications:** LangChain, LLM tool calling, web research, and prompt design.
+- **Programming foundations:** C++, data structures, OOP, file handling, and Git.
 
-**Languages & Tools**
-- Python · C++ · JavaScript
-- FastAPI · Flask · MySQL
-- Git · VS Code · Linux
+## Currently learning and building
 
----
+- **LangChain:** tool calling and connecting language models with external data and APIs.
+- **RAG:** document retrieval and answers grounded in source material.
+- **LangGraph:** stateful agent workflows and orchestration.
+- **Engineering practices:** testing, evaluation, error handling, and deployment.
 
-## Projects
+## More projects and learning
 
-### AI & Automation
-> This is where my current learning and building is focused. Projects being added as I complete them.
+- [Mini OS Shell](https://github.com/ahsansajid1/mini-os-shell) — a Python command-line shell simulation for practicing command parsing, file handling, and modular design.
+- [30 Days of Python](https://github.com/ahsansajid1/30-days-python-challenge) — exercises and notes on Python fundamentals, OOP, and other language concepts.
+- [Python Internship Journey](https://github.com/ahsansajid1/python-internship-journey) — weekly learning and practical Python development tasks.
 
-| Project | What it does |
-|---|---|
-| `ai-customer-support-bot` *(in progress)* | Chatbot using n8n + OpenAI for automated customer support |
-| `rag-document-qa` *(in progress)* | Ask questions from documents using RAG + FAISS |
-| `n8n-workflow-library` *(in progress)* | Collection of reusable n8n automation flows |
+## Connect
 
-### Python & CS Foundations
-
-| Project | What it does |
-|---|---|
-| [`smart-hospital-patient-priority-system`](https://github.com/ahsansajid1/smart-hospital-patient-priority-system) | Hospital triage system — C++ max heap engine, Flask backend, MySQL |
-| [`mini-os-shell`](https://github.com/ahsansajid1/mini-os-shell) | CLI shell simulator with virtual file system in Python |
-| [`30-days-python-challenge`](https://github.com/ahsansajid1/30-days-python-challenge) | 30-day structured Python learning — OOP, decorators, functional programming |
-| [`python-internship-journey`](https://github.com/ahsansajid1/python-internship-journey) | Internship portfolio — data structures, file handling, Flask |
-| [`oop-bank-management-system`](https://github.com/ahsansajid1/oop-bank-management-system) | Bank management system built with Python OOP principles |
-
----
-
-## Currently learning
-
-```python
-now = {
-    "AI frameworks":  ["LangChain", "LangGraph", "OpenAI API"],
-    "Automation":     ["n8n", "API integrations", "workflow design"],
-    "Building":       "Small AI projects weekly, growing toward production systems",
-}
-```
-
----
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsansajid1&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsansajid1&layout=compact&theme=default&hide_border=true)
-
----
-
-📍 Haripur, Pakistan &nbsp;·&nbsp; 📧 ahsansajid.dev@gmail.com &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ahsansajid-dev)
+Haripur, Pakistan · [Email](mailto:ahsansajid.dev@gmail.com) · [LinkedIn](https://linkedin.com/in/ahsansajid-dev)
